@@ -1,0 +1,24 @@
+{
+    "Name": "Active Touch and Self-Motion Encoding by Merkel Cell-Associated Afferents",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Touch perception depends on integrating signals from multiple types of peripheral mechanoreceptors. Merkel-cell associated afferents are thought to play a major role in form perception by encoding surface features of touched objects. However, activity of Merkel afferents during active touch has not been directly measured. Here, we show that Merkel and unidentified slowly adapting afferents in the whisker system of behaving mice respond to both self-motion and active touch. Touch responses were dominated by sensitivity to bending moment (torque) at the base of the whisker and its rate of change and largely explained by a simple mechanical model. Self-motion responses encoded whisker position within a whisk cycle (phase), not absolute whisker angle, and arose from stresses reflecting whisker inertia and activity of specific muscles. Thus, Merkel afferents send to the brain multiplexed information about whisker position and surface features, suggesting that proprioception and touch converge at the earliest neural level.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Severson, Kyle",
+        "Xu, Duo",
+        "Van de Loo, Margaret",
+        "Bai, Ling",
+        "Ginty, David D",
+        "O'Connor, Daniel H"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
